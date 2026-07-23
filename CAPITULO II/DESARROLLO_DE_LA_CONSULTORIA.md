@@ -89,18 +89,19 @@ las actividades que demandan las vacantes por ocupar, entre otros.
 - Ausencia de planeación, que se refleja en una escasa o nula visión de largo plazo y la consecuente
 determinación de objetivos, metas, estrategias y políticas, que deriven un pertinente rumbo de la
 organización y una congruencia manifiesta con los restantes elementos del proceso administrativo.
+
 Éstas solamente son algunas de tantas falencias, que pudieran identificarse a través de la evaluación
 integral, como expresión de las causas de los fracasos en las pequeñas empresas y por igual de algunos
 otros de sus tamaños, tal y como se explica en un documento que se aporta al respecto (ver anexo No. 1
 Las pequeñas empresas y las causas de sus fracasos)
+
 Una vez consciente de la actividad que implica el llevar a cabo ésta primera actividad de inducción alrededor
 de la elección de una empresa local del medio, es conveniente reiterar que debe haber una cabal claridad
 sobre el ejercicio de intervención que se estará llevando a cabo, a través de todo el capitulado de esta obra,
 pero sobre todo en el ofrecimiento del servicio de consultoría, la conveniencia de llevarlo a cabo y lo que
 se espera de él, así como los compromisos de corresponsabilidad que se adquieren.
-Para lo cual, también es preciso dar a conocer un esbozo general de las cinco etapas que comprenderá este
 
-## Ejercicio de consultoría y a que a decir son:
+Para lo cual, también es preciso dar a conocer un esbozo general de las cinco etapas que comprenderá este **Ejercicio de consultoría** y a que a decir son:
 - Fase I Inicio, también denominada de inducción
 - Fase II Diagnóstico
 - Fase III Planeación
@@ -236,3 +237,8 @@ a aquellos quienes en su momento dentro de su proceso formativo, me permitieron 
 hacer contribuciones significativas y que estoy seguro que al tiempo ha quedado en ellos, la posibilidad de
 ejercer esta significativa actividad profesional de la Consultoría Empresarial.
 ¡Pongámonos entonces en marcha!
+
+---
+
+
+
