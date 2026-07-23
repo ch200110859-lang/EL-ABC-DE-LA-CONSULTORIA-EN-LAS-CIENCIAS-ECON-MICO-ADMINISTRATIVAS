@@ -1,2 +1,1 @@
 # EL-ABC-DE-LA-CONSULTORIA-EN-LAS-CIENCIAS-ECON-MICO-ADMINISTRATIVAS
-Repositorio de síntesis y materiales derivados del Libro Sabático 2023 del Mtro. Roberto Zárate Carrera. Su objetivo es preservar, organizar y facilitar el acceso a los elementos esenciales del texto —resúmenes, esquemas conceptuales, mapas comparativos y notas de aplicación práctica— en formatos útiles para proyectos de consultoría.
